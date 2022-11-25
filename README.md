@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Infectious-07
-- 👀 I’m interested in Art and Computers
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Anything Really!
-- 📫 How to reach me: kotharidivit07@gmail.com
+Hi, I’m Divit and I don't really know what I am doing.
